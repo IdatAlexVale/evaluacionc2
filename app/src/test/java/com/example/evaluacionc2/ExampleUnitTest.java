@@ -1,4 +1,4 @@
-package com.example.evaluacionc2;
+package com.example.examen3;
 
 import org.junit.Test;
 
